@@ -1,5 +1,10 @@
 ﻿# :100:系统架构设计师复习资料【QQ群在本文最后，加群请备注Github。免费提供其他备考资料或电子书查找服务。】
  
+- **注意**
+
+  本项目中的所有资料仅限个人学习备考使用，严禁用于任何商业用途，欢迎各位举报相关情况。[**点击查看维权记录**](https://github.com/xxlllq/system_architect/blob/xiangxiaolin/%E7%BB%B4%E6%9D%83%E8%AE%B0%E5%BD%95/%E8%AE%B0%E5%BD%95.md)
+
+
 - **通过人数**
 
   [2020下半年①、②群通过人数](https://github.com/xxlllq/system_architect/blob/xiangxiaolin/%E7%BE%A4%E9%80%9A%E8%BF%87%E4%BA%BA%E6%95%B0/2020%E4%B8%8B%E5%8D%8A%E5%B9%B4/2020.md)
@@ -72,8 +77,4 @@
  <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/group-new.jpg" width=400 />
  </kbd> 
  </div>
-
-- **注意**
-
-  本项目中的所有资料仅限个人学习备考使用，严禁用于任何商业用途，欢迎各位举报相关情况。[**点击查看维权记录**](https://github.com/xxlllq/system_architect/blob/xiangxiaolin/%E7%BB%B4%E6%9D%83%E8%AE%B0%E5%BD%95/%E8%AE%B0%E5%BD%95.md)
 
