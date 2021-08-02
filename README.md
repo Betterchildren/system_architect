@@ -34,7 +34,7 @@
 
   包含自己整理的2009-2020年的综合知识、案例分析、论文（无范文）的真题以及答案详细解析，其中综合版是将综合知识和案例分析合并在一个文档中方便查看，文档全部为PDF格式。
 <div align="center">
-   <kbd><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/years.png"/>
+   <kbd><img src="https://raw.githubusercontent.com/xxlllq/system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/years.png"/>
       </kbd>
   </div>
 
