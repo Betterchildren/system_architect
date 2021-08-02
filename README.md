@@ -39,10 +39,10 @@
   </div>
 
 - **教学视频**
-  [[网盘地址]](https://github.com/xxlllq/2018_system_architect/issues/1)
+  [[视频地址]](https://github.com/xxlllq/2018_system_architect/issues/1)
 
 - **教学书籍**
-  [[教学书籍]](https://github.com/xxlllq/system_architect/issues/4)，教材列表如下：
+  [[书籍地址]](https://github.com/xxlllq/system_architect/issues/4)，教材列表如下：
 <div align="center">
    <kbd><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/books.png" width=400 />
       </kbd>
