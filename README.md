@@ -41,21 +41,14 @@
 - **教学视频**
   [[视频地址]](https://github.com/xxlllq/2018_system_architect/issues/1)
 
-- **教学书籍**
-  [[书籍地址]](https://github.com/xxlllq/system_architect/issues/4)，教材列表如下：
+- **教材及论文：**
+  [[教材地址]](https://github.com/xxlllq/system_architect/issues/4)， [[论文地址：提取码vbgd]](https://pan.baidu.com/s/1A5f4zY1y-9Jh1de1DSA3Ig)，教材及论文列表如下：
 <div align="center">
-   <kbd><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/books.png" width=400 />
+   <kbd><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/books.png" width=400 /> <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/pp.png" width=400 />
       </kbd>
   </div>
 
 
-- **论文**
-  [提取码vbgd](https://pan.baidu.com/s/1A5f4zY1y-9Jh1de1DSA3Ig)，论文列表如下：
-<div align="center">
-   <kbd><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/pp.png" width=400 />
-      </kbd>
-  </div>
-  
 - **答题卡**
 
   其中答题卡为信息系统项目管理师答题卡示例，与系统架构设计师答题卡类似，系统架构设计师论文有四道可供选择，答题时填涂相应的题号即可。
