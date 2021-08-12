@@ -4,6 +4,9 @@
 
   本项目中的所有资料仅限个人学习备考使用，严禁用于任何商业用途，欢迎各位举报相关情况。[**点击查看维权记录**](https://github.com/xxlllq/system_architect/blob/xiangxiaolin/%E7%BB%B4%E6%9D%83%E8%AE%B0%E5%BD%95/%E8%AE%B0%E5%BD%95.md)
 
+- **报名**
+ 
+  [官网](https://www.ruankao.org.cn/)、[报名入口](https://bm.ruankao.org.cn/sign/welcome)
 
 - **通过人数**
 
